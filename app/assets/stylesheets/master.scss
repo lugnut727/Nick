@@ -38,6 +38,8 @@
   color:black;
   font-size: 25px;
   border-bottom: 1px solid #055294;
+  font-family: 'kaushan_scriptregular';
+  font-weight: bold;
 }
 
 header {
@@ -46,4 +48,20 @@ header {
 
 hr {
   clear:both;
+}
+
+h1 {
+  font-family: 'kaushan_scriptregular';
+  font-weight: 600;
+  letter-spacing: -1.5px;
+  font-weight: bold;
+  font-size: 48px;
+  font-style: italic;
+}
+
+h2 {
+  font-family: 'kaushan_scriptregular';
+  font-weight: 600;
+  letter-spacing: -1.5px;
+  font-style: italic;
 }
